@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="img_7.png" width="100%" />
+</p>
 # Astro Portfolio Collection 🚀
 
 Welcome to the Astro Portfolio Collection! This repository contains 7 carefully selected portfolio templates to help you create your professional portfolio website quickly and easily.
@@ -16,6 +20,7 @@ A feature-rich portfolio with blog support, dark mode, and modern design. Perfec
 **Features:** Blog, Projects, Work Experience, Search, Dark Mode  
 **Tech:** Astro + Tailwind + Solid.js + TypeScript  
 📁 [View Template](./astro-sphere/)
+Live Demo: [https://astro-sphere-demo.vercel.app/](https://astro-sphere-demo.vercel.app/)
 
 #### 2. **Minimal Bento Portfolio**
 Trendy bento-box layout with smooth animations and interactive elements. Great for creatives who want a unique, eye-catching design.
@@ -24,6 +29,9 @@ Trendy bento-box layout with smooth animations and interactive elements. Great f
 **Tech:** Astro + UnoCSS + Solid.js + Svelte + TypeScript  
 📁 [View Template](./minimal-bento-portfolio/)
 
+Live Demo: [Link](https://bue221.vercel.app/)
+
+
 #### 3. **Astro Terminal (Astro Paper)**
 Minimal, accessible blog theme with excellent typography and SEO. Ideal for writers and developers who prioritize content and readability.
 ![img_1.png](img_1.png)
@@ -31,13 +39,15 @@ Minimal, accessible blog theme with excellent typography and SEO. Ideal for writ
 **Tech:** Astro + Tailwind + TypeScript  
 📁 [View Template](./astro-terminal/)
 
+Live Demo: [Link](https://astro.build/themes/details/astro-terminal/)
+
 #### 4. **Devolio**
 Modern, minimalist portfolio built specifically for developers. Clean and professional design that showcases your technical skills.
 ![img_3.png](img_3.png)
 **Features:** Project Showcase, Tech Stack Display, Clean Design  
 **Tech:** Astro + Tailwind + TypeScript  
 📁 [View Template](./devolio/)
-
+Live Demo: [Link](https://devolio.devaradise.com/)
 ### JavaScript Templates
 
 #### 5. **Astrofy**
@@ -46,6 +56,7 @@ Clean and beginner-friendly portfolio with CV, blog, projects, and optional stor
 **Features:** CV/Resume, Blog, Projects, Services, Store (optional)  
 **Tech:** Astro + Tailwind + JavaScript  
 📁 [View Template](./astrofy/)
+Live Demo: [Link](https://astrofy-template.netlify.app/)
 
 #### 6. **LiteFolio**
 Lightweight and minimal portfolio focused on simplicity and fast loading. Perfect for developers who want a straightforward, no-frills site.
@@ -53,6 +64,7 @@ Lightweight and minimal portfolio focused on simplicity and fast loading. Perfec
 **Features:** Minimal Design, Fast Loading, Easy Customization  
 **Tech:** Astro + Tailwind + JavaScript  
 📁 [View Template](./litefolio/)
+Live Demo: [Link](https://litefolio.gonzalochale.com/)
 
 #### 7. **Swissfolio**
 Inspired by Swiss design principles with clean typography and grid-based layouts. Ideal for designers who appreciate timeless, elegant design.
@@ -60,6 +72,7 @@ Inspired by Swiss design principles with clean typography and grid-based layouts
 **Features:** Swiss Design, Clean Typography, Grid Layout  
 **Tech:** Astro + Tailwind + JavaScript  
 📁 [View Template](./swissfolio/)
+Live Demo: [Link](https://swissfolio.netlify.app/)
 
 ## 🚀 Getting Started
 
