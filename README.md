@@ -12,28 +12,28 @@ This collection was created to help students and developers build beautiful, fas
 
 #### 1. **Astro Sphere** 
 A feature-rich portfolio with blog support, dark mode, and modern design. Perfect for developers who want a complete solution with blog, projects, and work experience sections.
-
+![img.png](img.png)
 **Features:** Blog, Projects, Work Experience, Search, Dark Mode  
 **Tech:** Astro + Tailwind + Solid.js + TypeScript  
 📁 [View Template](./astro-sphere/)
 
 #### 2. **Minimal Bento Portfolio**
 Trendy bento-box layout with smooth animations and interactive elements. Great for creatives who want a unique, eye-catching design.
-
+![img_2.png](img_2.png)
 **Features:** Bento Grid Layout, Animations (GSAP), Blog, SSR  
 **Tech:** Astro + UnoCSS + Solid.js + Svelte + TypeScript  
 📁 [View Template](./minimal-bento-portfolio/)
 
 #### 3. **Astro Terminal (Astro Paper)**
 Minimal, accessible blog theme with excellent typography and SEO. Ideal for writers and developers who prioritize content and readability.
-
+![img_1.png](img_1.png)
 **Features:** Blog, Dark Mode, Search, Accessibility, Syntax Highlighting  
 **Tech:** Astro + Tailwind + TypeScript  
 📁 [View Template](./astro-terminal/)
 
 #### 4. **Devolio**
 Modern, minimalist portfolio built specifically for developers. Clean and professional design that showcases your technical skills.
-
+![img_3.png](img_3.png)
 **Features:** Project Showcase, Tech Stack Display, Clean Design  
 **Tech:** Astro + Tailwind + TypeScript  
 📁 [View Template](./devolio/)
@@ -42,21 +42,21 @@ Modern, minimalist portfolio built specifically for developers. Clean and profes
 
 #### 5. **Astrofy**
 Clean and beginner-friendly portfolio with CV, blog, projects, and optional store section. Great for those who want an all-in-one solution.
-
+![img_4.png](img_4.png)
 **Features:** CV/Resume, Blog, Projects, Services, Store (optional)  
 **Tech:** Astro + Tailwind + JavaScript  
 📁 [View Template](./astrofy/)
 
 #### 6. **LiteFolio**
 Lightweight and minimal portfolio focused on simplicity and fast loading. Perfect for developers who want a straightforward, no-frills site.
-
+![img_5.png](img_5.png)
 **Features:** Minimal Design, Fast Loading, Easy Customization  
 **Tech:** Astro + Tailwind + JavaScript  
 📁 [View Template](./litefolio/)
 
 #### 7. **Swissfolio**
 Inspired by Swiss design principles with clean typography and grid-based layouts. Ideal for designers who appreciate timeless, elegant design.
-
+![img_6.png](img_6.png)
 **Features:** Swiss Design, Clean Typography, Grid Layout  
 **Tech:** Astro + Tailwind + JavaScript  
 📁 [View Template](./swissfolio/)
